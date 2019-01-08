@@ -1,2 +1,2 @@
 # ZigZagPro
-Unity ile geliştirilmiştir.
+Developed with unity.
